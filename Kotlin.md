@@ -89,12 +89,22 @@ Tugas sekarang tampilkan kalimat
 
  Isi titik tersebut dengan memanggil nama variabel.
 
-Tipe Data adalah kelompok **data** berdasarkan jenis-jenis tertentu
+Tipe Data adalah kelompok **data** berdasarkan jenis-jenis tertentu 
+
+cara 1
 
 ```kotlin
 var name: String = "Tiyan"
 var age: Int = 30
 var weight: Double = 70.7
+```
+
+atau cara 2
+
+```kotlin
+var name = "Tiyan"
+var age = 30
+var weight = 70.7
 ```
 
 Sebenarnya ada bebrapa tipe data namun kali ini kita bahas 3 tipe data yang sering digunakan yaitu :
