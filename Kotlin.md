@@ -82,3 +82,9 @@ fun main() {
 ```
 
 Untuk menampilkan nilai variabel kita kasih tanda '**$**' di depan nama variabel, seperti contoh diatas.
+
+Tugas sekarang tampilkan kalimat 
+
+**Nama saya ... berumur ... dan tinggal di kota ...** 
+
+ Isi titik tersebut dengan memanggil nama variabel.
