@@ -63,3 +63,11 @@ penamaan variabel :
 
 var **nama_variabel** = **nilai**
 
+atau
+
+```kotlin
+val name = "Tiyan"
+val age = "20"
+```
+
+Terus perbedaannya apa **var** dan **val**? **var** nilainya bisa diganti kalau **val** nilainya tidak bisa diganti. 
