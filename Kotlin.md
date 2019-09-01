@@ -88,3 +88,11 @@ Tugas sekarang tampilkan kalimat
 **Nama saya ... berumur ... dan tinggal di kota ...** 
 
  Isi titik tersebut dengan memanggil nama variabel.
+
+Tipe Data adalah kelompok **data** berdasarkan jenis-jenis tertentu
+
+```kotlin
+var name: String = "Tiyan"
+var age: Int = 30
+```
+
