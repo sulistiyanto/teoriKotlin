@@ -28,3 +28,18 @@ fun jalan() {
 }
 ```
 
+bagaimana menampilkan tulisan Jalan-jalan? tinggal panggil saja fungsi jalan() di dalam main(). Hasil penambahan kode dan memanggil fungsi jalan.
+
+```kotlin
+package hello
+
+fun main() {
+  jalan()
+  println("Hello World")
+}
+
+fun jalan() {
+  println("Jalan-jalan")
+}
+```
+
