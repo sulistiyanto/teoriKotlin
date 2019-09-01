@@ -95,7 +95,7 @@ cara 1
 
 ```kotlin
 var name: String = "Tiyan"
-var age: Int = 30
+var age: Int = 20
 var weight: Double = 70.7
 ```
 
@@ -103,7 +103,7 @@ atau cara 2
 
 ```kotlin
 var name = "Tiyan"
-var age = 30
+var age = 20
 var weight = 70.7
 ```
 
