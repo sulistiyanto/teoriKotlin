@@ -71,3 +71,14 @@ val age = "20"
 ```
 
 Terus perbedaannya apa **var** dan **val**? **var** nilainya bisa diganti kalau **val** nilainya tidak bisa diganti. 
+
+Praktek
+
+```kotlin
+var name = "Tiyan"
+fun main() {
+    println("Nama saya $name")
+}
+```
+
+Untuk menampilkan nilai variabel kita kasih tanda '**$**' di depan nama variabel, seperti contoh diatas.
