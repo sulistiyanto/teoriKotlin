@@ -24,7 +24,7 @@ Apakah kita bisa membuat fungsi sendiri? BISA. kita coba menambahkan fungsi buat
 
 ```kotlin
 fun jalan() {
-		println("Jalan-jalan")
+  println("Jalan-jalan")
 }
 ```
 
