@@ -12,3 +12,6 @@ Kita bisa belajar menjalankan program bahasa kotlin di https://kotlinlang.org/
 
 Silahkan buka alamat  https://kotlinlang.org/
 
+Yuk kita bahas satu persatu kode program diatas.
+
+**package hello** disini adalah alamat file kita simpan. Kalau kita buat aplikasi android akan otomatis dibuatkan package-nya.
