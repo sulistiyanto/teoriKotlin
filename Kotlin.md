@@ -94,5 +94,6 @@ Tipe Data adalah kelompok **data** berdasarkan jenis-jenis tertentu
 ```kotlin
 var name: String = "Tiyan"
 var age: Int = 30
+var weight: Double = 70.7
 ```
 
