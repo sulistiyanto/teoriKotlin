@@ -59,3 +59,7 @@ var age = "20"
 var birthDate = "17 Mei 1990"
 ```
 
+penamaan variabel :
+
+var **nama_variabel** = **nilai**
+
