@@ -97,3 +97,10 @@ var age: Int = 30
 var weight: Double = 70.7
 ```
 
+Sebenarnya ada bebrapa tipe data namun kali ini kita bahas 3 tipe data yang sering digunakan yaitu :
+
+String = ini untuk jenis data bertipe kalimat atau kata dengan di tandai petik dua diatas ""
+
+Int = ini untuk jenis data bertipe bilangan bulat. contoh mulai angka 0 .. dst
+
+Double = ini untuk jenis data bertipe bilangan pecahan, contoh 1.1, 2.9 
