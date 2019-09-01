@@ -50,3 +50,12 @@ Variabel adalah tempat untuk menyimpan **data** atau sebuah nilai. Variabel di k
 - Diawali huruf kecil dan menggunakan kata yang mudah dipahami.
 - Tidak boleh ada spasi. Kalau ada dua atau lebih kata bagaimana? Penulisan kata kedua diawali huruf besar. contoh **birthDate**
 - Biasakan menggunakan bahasa inggris. Apa tidak bisa bahasa indonesia? Bisa. namun penggunaan bahasa inggris lebih baik untuk kerja tim dikemudian hari dengan orang dalam maupun luar negeri agar kompak.
+
+Contoh :
+
+```kotlin
+var name = "Tiyan"
+var age = "20"
+var birthDate = "17 Mei 1990"
+```
+
