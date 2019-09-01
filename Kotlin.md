@@ -8,6 +8,7 @@ Untuk membuat aplikasi Android bisa menggunakan dua bahasa pemrograman yaitu Jav
 
 Kita bisa belajar menjalankan program bahasa kotlin di https://kotlinlang.org/
 
-![Screen Shot 2019-08-31 at 09.59.05](/Users/sulistiyanto/Desktop/Screen Shot 2019-09-01 at 10.18.48.png)
+![Screen Shot 2019-09-01 at 10.18.48](/Users/sulistiyanto/Documents/TeoriKotlin/Screen Shot 2019-09-01 at 10.18.48.png)
 
 Silahkan buka alamat  https://kotlinlang.org/
+
