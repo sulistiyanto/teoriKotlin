@@ -17,3 +17,14 @@ Yuk kita bahas satu persatu kode program diatas.
 **package hello** disini adalah alamat file kita simpan. Kalau kita buat aplikasi android akan otomatis dibuatkan package-nya.
 
 **fun main()** adalah fungsi utama untuk menjalankan perintah bahasa kotlin. **fun** ini wajib ditulis ketika kita membuat sebuah fungsi. **main()** ini adalah nama fungsinya yang wajib ada kurung buka tutup.
+
+**Jangan lupa setiap kita menulisan code harus didalam tanda kurung kurawal { }**, kecuali pembuatan variabel bisa di luar atau dalam kurung kurawal.
+
+Apakah kita bisa membuat fungsi sendiri? BISA. kita coba menambahkan fungsi buatan kita.
+
+```kotlin
+fun jalan() {
+		println("Jalan-jalan")
+}
+```
+
