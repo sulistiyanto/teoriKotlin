@@ -114,3 +114,5 @@ String = ini untuk jenis data bertipe kalimat atau kata dengan di tandai petik d
 Int = ini untuk jenis data bertipe bilangan bulat. contoh mulai angka 0 .. dst
 
 Double = ini untuk jenis data bertipe bilangan pecahan, contoh 1.1, 2.9 
+
+Boolean = hanya mempunyai 2 nilai yaitu true dan false
