@@ -13,3 +13,18 @@ Operator adalah simbol-simbol khusus yang digunakan untuk mengoperasikan suatu n
 | ==       | apakah sama dengan      | 4 == 5     |
 | !=       | tidak sama dengan       | 4 != 5     |
 
+### **Percabangan**
+
+Dalam kotlin ada beberapa jenis percabangan. Pertama kita akan membahas percabagan **if else**.
+
+contoh penulisan :
+
+```kotlin
+if(a > b) {
+  println("BENAR")
+} else {
+  println("SALAH")
+}
+```
+
+membaca kode diatasa -> jika **a** sama dengan **b** maka menampilkan **BENAR**, jika salah maka akan menampilkan **SALAH**
