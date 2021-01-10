@@ -20,7 +20,7 @@ Dalam kotlin ada beberapa jenis percabangan. Pertama kita akan membahas percabag
 contoh penulisan :
 
 ```kotlin
-if(a > b) {
+if(a == b) {
   println("BENAR")
 } else {
   println("SALAH")
