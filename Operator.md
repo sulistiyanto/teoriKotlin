@@ -27,4 +27,4 @@ if(a == b) {
 }
 ```
 
-membaca kode diatasa -> jika **a** sama dengan **b** maka menampilkan **BENAR**, jika salah maka akan menampilkan **SALAH**
+membaca kode diatasa -> jika **a** sama dengan **b** maka menampilkan **BENAR**, jika salah masuk ke else maka akan menampilkan **SALAH**
